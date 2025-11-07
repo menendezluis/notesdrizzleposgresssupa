@@ -6,6 +6,10 @@ Please **timebox** yourself to **1–2 hours max**.
 
 We are _not_ expecting a full production system — clarity, correctness, and thoughtful choices matter more than UI polish.
 
+
+https://github.com/user-attachments/assets/743f8017-dfcd-4b42-be26-a35f5e8b7f67
+
+
 ---
 
 ## 🎯 Challenge Goal
